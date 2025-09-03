@@ -3,11 +3,12 @@
   <!-- Waving Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header&reversal=true" />
 
-  <!-- Introduction Text with a WORKING Animated Emoji -->
-  <h1 align="center">
-    Hi, I'm Abdulrahman Agiba
-    <img src="https://media.tenor.com/h_g6G_t4jC0AAAAi/wave-hello.gif" width="35">
-  </h1>
+ <!-- Introduction Text with the Original Classic Emoji -->
+<h1 align="center">
+  Hi, I'm Abdulrahman Agiba
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 
   <!-- Typing SVG -->
   <p align="center">
