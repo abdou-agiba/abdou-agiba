@@ -67,7 +67,7 @@ technical_toolkit:
     tools: [Git Hub, Bash Scripting, VS Code]
   previous_experience:
     frontend: [HTML, CSS, JavaScript]
-    experience_level: " > year"
+    experience_level: " > 1 year"
 
 mission:
   guiding_principle: "I believe the best way to learn is by doing."
