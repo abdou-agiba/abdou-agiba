@@ -37,25 +37,31 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+<!-- 2. ABOUT ME (Code on the left, GIF on the right) -->
 
-<!-- 2. ABOUT ME (Simple & Clean Layout with Brain Emoji) -->
+### 🧠 A little more about me...
 
-<!-- Title -->
-<h2 align="left">
-  🧠&nbsp;About Me
-</h2>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td valign="top">
 
-<!-- Content Section (List on the left, GIF on the right) -->
-<picture> <img align="right" src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight3.gif?raw=true" width="320px"></picture>
-
-- 👋 &nbsp; My name is `Abdulrahman Agiba`.
-- 🎓 &nbsp; I'm a student at the `Faculty of Computers and Information`, `Tanta University`.
-- ☁️ &nbsp; I'm a `Cloud & Security Enthusiast`, currently working with `DevOps` tools and culture.
-- 💻 &nbsp; I use `Python` and `Linux` as my primary tools for automation and building solutions.
-- 🌱 &nbsp; I'm always learning and exploring new `technologies` to solve real-world problems.
-- 🤝 &nbsp; Open to `collaborating` on projects related to `cloud automation` and `security`.
-  
-
+```javascript
+const abdulrahman_agiba = {
+  pronouns: "He" | "Him",
+  college: "Faculty of Computers & Info, Tanta Uni",
+  field: ["Cloud", "Security", "DevOps"],
+  currentlyLearning: {
+    cloud: "AWS, Docker, Kubernetes",
+    security: "Network & Cloud Security",
+    devops: "CI/CD, IaC"
+  },
+  coreSkills: {
+    languages: ["Python"],
+    systems: ["Linux"]
+  },
+  challenge: "Always learning new tech to solve real-world problems.",
+  futureGoal: "Open to collaborating on cloud automation & security projects."
+};
 
 <!-- Animated Divider to separate from the next section -->
 <p align="center">
