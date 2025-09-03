@@ -71,8 +71,13 @@ technical_toolkit:
     experience_level: " > year"
 
 mission:
+
   current_challenge: "Building a strong foundation in cloud and security by mastering the fundamentals."
   collaboration_goal: "Eager to collaborate on projects to apply my skills"
+fun_facts:
+ - "I'm a huge fan of Survival & Story games 🎮."
+ - "When I'm not coding, I'm exploring a new Linux distribution"
+ - "Deeply interested in tech hardware, from keyboards to PC components ⌨️."
 ```
 
 <!-- Hollow Knight GIF -->
