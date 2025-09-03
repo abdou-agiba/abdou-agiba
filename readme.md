@@ -38,30 +38,30 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- 2. ABOUT ME (Code on the left, GIF on the right ) - FINAL RESPONSIVE FIX -->
+<!-- 2. ABOUT ME (New Vertical Layout ) -->
 
 ### 🧠 A little more about me...
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-  <!-- Column 1: Code Block (with fixed width) -->
-  <td valign="top">
-    <div style="width: 450px;">
+<!-- Centered Code Block with Margins -->
+<div align="center">
+  <table width="80%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
 
 ```javascript
 const abdulrahman_agiba = {
   pronouns: "He" | "Him",
-  college: "Faculty of Computers & Info, Tanta Uni",
+  college: "Faculty of Computers & Information, Tanta University",
   field: ["Cloud", "Security", "DevOps"],
   currentlyLearning: {
     cloud: "AWS, Docker, Kubernetes",
     security: "Network & Cloud Security",
-    devops: "CI/CD, IaC"
+    devops: "CI/CD, Infrastructure as Code (IaC)"
   },
   coreSkills: {
     languages: ["Python"],
     systems: ["Linux"]
   },
-  challenge: "Always learning new tech to solve real-world problems.",
-  futureGoal: "Open to collaborating on cloud automation & security projects."
+  challenge: "Always learning and exploring new technologies to solve real-world problems.",
+  futureGoal: "Open to collaborating on projects related to cloud automation and security."
 };
