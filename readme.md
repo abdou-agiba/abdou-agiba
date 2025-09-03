@@ -1,90 +1,92 @@
 <!-- 
-  Hello! This is the code for your GitHub Profile README.
-  I've designed it to fit your specialty in Cloud, DevOps, and Security.
-  Just copy, paste, and customize the links and text!
+======================================================================
+  Welcome to your new GitHub Profile README! 
+  Designed by Manus just for you, Abdulrahman.
+  Let's show the world what a future Cloud & Security Engineer looks like.
+======================================================================
 -->
 
-<!-- 1. HEADER IMAGE -->
+<!-- 1. HEADER BANNER -->
 <p align="center">
-  <img src="" alt="Animated banner showing code, cloud, and security icons" width="100%"/>
+  <img src="https://i.imgur.com/vGeSg0S.gif" alt="A futuristic, dark-themed banner with cloud and security elements." width="100%"/>
 </p>
 
 <!-- 2. INTRODUCTION -->
 <div align="center">
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand">
     Hi, I'm Abdulrahman Agiba
   </h1>
   <p>
-    <b>A Computer Science student passionate about Cloud, DevOps, and Security.</b>
+    <b>An aspiring Cloud & Security Engineer | DevOps Enthusiast | Lifelong Learner</b>
+  </p>
+  
+  <!-- Profile Views Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=abdou-agiba&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile views" />
   </p>
 </div>
+
+---
 
 <!-- 3. ABOUT ME -->
 ## 👨‍💻 About Me
 
 <p>
-  My name is Abdulrahman Agiba, a student at the Faculty of Computers and Information, Tanta University. I am deeply passionate about Cloud Computing and DevOps, and I'm currently focusing my studies on Cloud Security. I'm building my skills in Python and Linux, using them as foundational tools to explore and create solutions in the cloud environment.
+  I'm a Computer Science student at <b>Tanta University</b> with a deep passion for everything related to Cloud Computing and DevOps. My current journey is focused on mastering <b>Cloud Security</b>, leveraging my foundational skills in <b>Python</b> and <b>Linux</b> to build and protect modern cloud infrastructures. I believe in the power of automation and am always looking for new challenges to solve.
 </p>
 
-- 🌱 I’m currently learning **AWS Security**, **Terraform**, and **Docker**.
-- 👯 I’m looking to collaborate on open-source projects related to **Cloud automation and security**.
-- 📫 How to reach me: **abdouagiba2@gmail.com** or find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/ ). <!-- Add your LinkedIn link here! -->
-- ⚡ Fun fact: I believe every complex problem has a simple, automated solution waiting to be discovered.
+- 🌱 &nbsp; I’m currently diving deep into **AWS**, **Terraform**, and **Docker**.
+- 👯 &nbsp; I’m looking to collaborate on open-source projects in **cloud automation & security**.
+- 💬 &nbsp; Ask me about anything related to **Cloud, Linux, or Python basics**!
+- 📫 &nbsp; How to reach me: Drop me a message on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/ )! <!-- ⬅️ IMPORTANT: Add your LinkedIn link here! -->
 
 ---
 
-<!-- 4. SKILLS -->
-## 🛠️ My Skills & Tools
+<!-- 4. TECHNOLOGY STACK -->
+## 🛠️ My Tech Stack
 
-### Cloud & DevOps
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
-</p>
-
-### Programming & OS
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
+  
+  <!-- Programming & OS -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
 ---
 
-<!-- 5. GITHUB STATS -->
-## 📊 My GitHub Stats
+<!-- 5. GITHUB ANALYTICS -->
+## 📊 My GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=tokyonight&locale=en&hide_border=true&count_private=true" alt="abdou-agiba's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-agiba&layout=compact&theme=dracula&hide_border=true&locale=en" alt="Top Languages" width="48%"/>
     
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-agiba&layout=compact&theme=tokyonight&locale=en&hide_border=true" alt="Top Languages" />
-    
-
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdou-agiba&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdou-agiba&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdou-agiba&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="48%"/>
 </p>
 
-<!-- Snake Animation -->
-<p align="center">
+<!-- Snake Contribution Grid -->
+<div align="center">
   <img src="https://github.com/abdou-agiba/abdou-agiba/raw/output/github-contribution-grid-snake.svg" alt="Snake animation over contribution graph" />
-</p>
+</div>
 
 ---
 
-<!-- 6. CONNECT WITH ME -->
-## 🔗 Connect with Me
+<!-- 6. LET'S CONNECT -->
+## 🔗 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abdouagiba2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
