@@ -207,10 +207,16 @@ fun_facts:
   </h2>
 </div>
 
+<!-- Stats Card & GIF -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFF&bg_color=0D1117" alt="Abdou Agiba's GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/github%20stats2.gif?raw=true" alt="GitHub Stats GIF" width="250" />
 </p>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</div>
 
 <!-- Animated Divider -->
 <p align="center">
