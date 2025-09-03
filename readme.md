@@ -46,26 +46,33 @@
 personal_info:
   name: Abdulrahman Agiba
   pronouns: He/Him
-  education: "Faculty of Computer Science & Information @Tanta University"
-  reach_me : abdouagiba@gmail.com
+  education: "Faculty of Computer Science & Information @ Tanta University"
+  contact:
+    email: "abdouagiba@gmail.com"
+
 professional_focus:
-  fields:
+  primary_interests:
     - Cloud Computing
     - Cloud & Cyber Security
     - DevOps
-  current_learning:
-    cloud: [AWS, Docker, Kubernetes]
-    security: [Network & Cloud Security]
-    devops: [CI/CD, Infrastructure as Code (IaC)]
+  learning_path:
+    cloud_fundamentals: [AWS, Docker, Kubernetes]
+    security_fundamentals: [Network Security, Cloud Security Concepts]
+    devops_fundamentals: [ Terraform ]
 
-technical_skills:
-  languages: [Python]
-  systems: [Linux]
+technical_toolkit:
+  current_focus:
+    languages: [Python]
+    operating_systems: [Linux , Windows]
+    tools: [Git Hub, Bash Scripting, VS Code]
+  previous_experience:
+    languages: [JavaScript]
+    frontend: [HTML, CSS]
+    experience_level: " > year"
 
 mission:
-  challenge: "Always learning and exploring new technologies to solve real-world problems."
-  collaboration_goal: "Open to collaborating on projects related to cloud automation and security."
-
+  current_challenge: "Building a strong foundation in cloud and security by mastering the fundamentals."
+  collaboration_goal: "Eager to collaborate on projects to apply my skills"
 ```
 
 <!-- Hollow Knight GIF -->
