@@ -51,7 +51,7 @@ personal_info:
 professional_focus:
   fields:
     - Cloud Computing
-    - Cyber Security
+    - Cloud & Cyber Security
     - DevOps
   current_learning:
     cloud: [AWS, Docker, Kubernetes]
