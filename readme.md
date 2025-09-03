@@ -35,9 +35,9 @@
 </p>
 
 <!-- 2. ABOUT ME -->
-<h2>
+<h2 align="center">
   <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="40" />
-  About me...
+  About Me ..
 </h2>
 
 ```Yaml
