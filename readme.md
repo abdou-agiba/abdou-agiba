@@ -40,8 +40,17 @@
   👨‍💻 About Me
 </h2>
 
-<p align="center">
-  I'm a Computer Science student at <b>Tanta University</b> with a deep passion for everything related to Cloud Computing and DevOps. My current journey is focused on mastering <b>Cloud Security</b>, leveraging my foundational skills in <b>Python</b> and <b>Linux</b> to build and protect modern cloud infrastructures. I believe in the power of automation and am always looking for new challenges to solve.
+<p align="left"> <!-- Changed alignment to left for better readability of the list -->
+  - 🎓 I'm a Computer Science student at <b>Tanta University</b>.
+    
+
+  - ☁️ I'm deeply passionate about <b>Cloud Computing</b>, <b>DevOps</b>, and especially <b>Cloud Security</b>.
+    
+
+  - 💻 I'm currently working with <b>Python</b> and <b>Linux</b> to build and protect modern cloud infrastructures.
+    
+
+  - 🌱 My goal is to continuously learn, automate solutions, and solve new challenges in the tech world.
 </p>
 
 <!-- Animated Divider -->
