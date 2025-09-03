@@ -86,9 +86,9 @@ fun_facts:
   <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight3.gif?raw=true" width="300" />
 </p>
 
-<!-- Animated Divider -->
+<!-- New Animated Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/Divider-flip.gif?raw=true" alt="Animated Divider">
 </p>
 
 <!-- 3. TECH STACK -->
