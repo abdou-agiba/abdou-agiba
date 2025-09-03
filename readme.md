@@ -38,12 +38,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- 2. ABOUT ME (New Centered Layout) -->
+<!-- 2. ABOUT ME (New Layout with Short Divider) -->
 
-<!-- Centered Title and Divider -->
+<!-- Centered Title and Short Divider -->
 <div align="center">
-  <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me</h2>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <table border="0" cellpadding="0" cellspacing="0" width="300px">
+    <tr>
+      <td align="center">
+        <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me</h2>
+        <hr>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Content Section (List on the left, GIF on the right ) -->
@@ -56,12 +62,6 @@
 - 🌱 &nbsp; I'm always learning and exploring new `technologies` to solve real-world problems.
 - 🤝 &nbsp; Open to `collaborating` on projects related to `cloud automation` and `security`.
   
-
-
-<!-- Animated Divider to separate from the next section -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 
 <!-- Animated Divider -->
