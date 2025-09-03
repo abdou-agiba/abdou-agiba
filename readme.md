@@ -191,3 +191,25 @@ fun_facts:
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" height="37"/>
 </p>
+
+<!-- 4. CONTACT ME -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc0b3U5d2x2Y21tZjc1Z3ZpZ3h1dGtrZ3Z6cWd1a2w3c3Z0cWJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s5T2a9vHnI4a2mJ0A8/giphy.gif" width="40" />
+    Let's Connect
+  </h2>
+  <p>
+    <a href="mailto:abdouagiba@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <!-- You can add more social links here, for example: -->
+    <!-- 
+    <a href="https://twitter.com/your-twitter-handle" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    -->
+  </p>
+</div>
