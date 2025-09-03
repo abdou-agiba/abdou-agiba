@@ -136,7 +136,11 @@ fun_facts:
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="55" height="55"/>
   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="55" height="55"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="55" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux_Mint-87C375?style=for-the-badge&logo=linux-mint&logoColor=white" alt="mint" height="37"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali" height="37"/>
 </p>
@@ -182,4 +186,6 @@ fun_facts:
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="37"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="obsidian" height="37"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" height="37"/>
 </p>
