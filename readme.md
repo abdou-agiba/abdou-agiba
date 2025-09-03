@@ -46,7 +46,7 @@
 personal_info:
   name: Abdulrahman Agiba
   pronouns: He/Him
-  education: Faculty of Computers & Information, Tanta University
+  education:"Faculty of Computer Science & Information @Tanta University"
 
 professional_focus:
   fields:
