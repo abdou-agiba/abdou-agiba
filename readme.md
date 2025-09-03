@@ -40,28 +40,31 @@
   About me...
 </h2>
 
-```python
-# abdulrahman_agiba.py
+```Yaml
+# about_me.yaml
 
-class Profile:
-    def __init__(self):
-        self.name = "Abdulrahman Agiba"
-        self.pronouns = "He/Him"
-        self.education = "Faculty of Computers & Information, Tanta University"
-        self.fields = ["Cloud", "Security", "DevOps"]
-        self.learning = {
-            "cloud": "AWS, Docker, Kubernetes",
-            "security": "Network & Cloud Security",
-            "devops": "CI/CD, Infrastructure as Code (IaC)"
-        }
-        self.core_skills = {
-            "languages": ["Python"],
-            "systems": ["Linux"]
-        }
-        self.challenge = "Always learning and exploring new technologies."
-        self.goal = "Open to collaborating on cloud automation and security projects."
+personal_info:
+  name: Abdulrahman Agiba
+  pronouns: He/Him
+  education: Faculty of Computers & Information, Tanta University
 
-me = Profile()
+professional_focus:
+  fields:
+    - Cloud Computing
+    - Cyber Security
+    - DevOps
+  current_learning:
+    cloud: [AWS, Docker, Kubernetes]
+    security: [Network & Cloud Security]
+    devops: [CI/CD, Infrastructure as Code (IaC)]
+
+technical_skills:
+  languages: [Python]
+  systems: [Linux]
+
+mission:
+  challenge: "Always learning and exploring new technologies to solve real-world problems."
+  collaboration_goal: "Open to collaborating on projects related to cloud automation and security."
 
 ```
 
