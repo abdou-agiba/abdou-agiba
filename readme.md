@@ -209,7 +209,7 @@ fun_facts:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFF&bg_color=0D1117" alt="Abdou Agiba's GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" alt="Bonfire GIF" width="250" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/github%20stats.gif?raw=true" alt="GitHub Stats GIF" width="250" />
 </p>
 
 <!-- Animated Divider -->
