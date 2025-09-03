@@ -35,10 +35,17 @@
 </p>
 
 <!-- 2. ABOUT ME -->
-<h3>
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="40" align="middle" />
-  About me...
-</h3>
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="30" />
+    </td>
+    <td valign="middle">
+      <h3>&nbsp;About me...</h3>
+    </td>
+  </tr>
+</table>
+
 
 ```javascript
 const abdulrahman_agiba = {
