@@ -47,7 +47,7 @@ personal_info:
   name: Abdulrahman Agiba
   pronouns: He/Him
   education: "Faculty of Computer Science & Information @Tanta University"
-
+  reach_me : abdouagiba@gmail.com
 professional_focus:
   fields:
     - Cloud Computing
