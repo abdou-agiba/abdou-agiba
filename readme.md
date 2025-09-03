@@ -38,15 +38,16 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- 2. ABOUT ME (Final & Approved Layout with Your Chosen Icon) -->
+<!-- 2. ABOUT ME (Simple & Clean Layout with New GIF) -->
 
 <!-- Title -->
 <h2 align="left">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">&nbsp;About Me
 </h2>
 
-<!-- Content Section (List on the left, GIF on the right ) -->
-<picture> <img align="right" src="https://media.giphy.com/media/u2pmXtt6sY2Iaj6p2A/giphy.gif" width="320px"></picture>
+<!-- Content Section (List on the left, NEW GIF on the right ) -->
+<!-- Using the raw link to your uploaded GIF -->
+<picture> <img align="right" src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/hollor_knight3.gif?raw=true" width="320px"></picture>
 
 - 👋 &nbsp; My name is `Abdulrahman Agiba`.
 - 🎓 &nbsp; I'm a student at the `Faculty of Computers and Information`, `Tanta University`.
@@ -61,3 +62,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
