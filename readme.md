@@ -208,14 +208,9 @@ fun_facts:
     <a href="mailto:abdouagiba@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abdulrahman-agiba-170341350/)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <!-- You can add more social links here, for example: -->
-    <!-- 
-    <a href="https://twitter.com/your-twitter-handle" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    -->
+
   </p>
 </div>
