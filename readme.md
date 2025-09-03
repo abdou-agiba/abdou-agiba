@@ -40,24 +40,38 @@
   About me...
 </h2>
 
-```javascript
-const abdulrahman_agiba = {
-  pronouns: "He" | "Him",
-  college: "Faculty of Computers & Information, Tanta University",
-  field: ["Cloud", "Security", "DevOps"],
-  currentlyLearning: {
-    cloud: "AWS, Docker, Kubernetes",
-    security: "Network & Cloud Security",
-    devops: "CI/CD, Infrastructure as Code (IaC )"
-  },
-  coreSkills: {
-    languages: ["Python"],
-    systems: ["Linux"]
-  },
-  challenge: "Always learning and exploring new technologies to solve real-world problems.",
-  futureGoal: "Open to collaborating on projects related to cloud automation and security."
-};
-```
+# About Me
+personal_info:
+  pronouns: He/Him
+  college: Faculty of Computers & Information, Tanta University
+  interests:
+    - Cloud Computing
+    - Cyber Security
+    - DevOps
+
+# Current Focus
+learning_path:
+  cloud:
+    - AWS
+    - Docker
+    - Kubernetes
+  security:
+    - Network & Cloud Security
+  devops:
+    - CI/CD
+    - Infrastructure as Code (IaC)
+
+# Technical Skills
+core_skills:
+  languages:
+    - Python
+  systems:
+    - Linux
+
+# Goals
+mission: "Always learning and exploring new technologies to solve real-world problems."
+collaboration: "Open to collaborating on projects related to cloud automation and security."
+
 
 <!-- Hollow Knight GIF -->
 <p align="center">
