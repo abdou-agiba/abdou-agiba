@@ -202,7 +202,7 @@ fun_facts:
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc0b3U5d2x2Y21tZjc1Z3ZpZ3h1dGtrZ3Z6cWd1a2w3c3Z0cWJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s5T2a9vHnI4a2mJ0A8/giphy.gif" width="40" />
-    Let's Connect
+    Get in Touch
   </h2>
 </div>
 
