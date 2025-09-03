@@ -66,14 +66,14 @@ technical_toolkit:
     operating_systems: [Linux , Windows]
     tools: [Git Hub, Bash Scripting, VS Code]
   previous_experience:
-    languages: [JavaScript]
-    frontend: [HTML, CSS]
+    frontend: [HTML, CSS, JavaScript]
     experience_level: " > year"
 
 mission:
   guiding_principle: "I believe the best way to learn is by doing."
   current_challenge: "Building a strong foundation in cloud and security by mastering the fundamentals."
   collaboration_goal: "Eager to collaborate on projects to apply my skills"
+
 fun_facts:
  - "I'm a huge fan of Survival & Story games 🎮."
  - "When I'm not coding, I'm exploring a new Linux distribution"
