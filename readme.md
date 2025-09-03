@@ -37,7 +37,7 @@
 </p>
 
 <!-- 2. ABOUT ME (New Style ) -->
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About Me
 
 <picture> <img align="right" src="https://media.giphy.com/media/u2pmXtt6sY2Iaj6p2A/giphy.gif" width="320px"></picture>
 
