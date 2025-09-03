@@ -35,10 +35,10 @@
 </p>
 
 <!-- 2. ABOUT ME -->
-<h3>
+<h2>
   <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight3.gif?raw=true" width="30" />
   About me...
-</h3>
+</h2>
 
 ```javascript
 const abdulrahman_agiba = {
