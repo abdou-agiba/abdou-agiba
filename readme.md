@@ -143,6 +143,8 @@ fun_facts:
   <img src="https://img.shields.io/badge/Linux_Mint-87C375?style=for-the-badge&logo=linux-mint&logoColor=white" alt="mint" height="37"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali" height="37"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/EndeavourOS-7A39B3?style=for-the-badge&logo=endeavouros&logoColor=white" alt="endeavouros" height="37"/>
 </p>
 
 <!-- Software & Tools -->
