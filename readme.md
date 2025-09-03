@@ -199,26 +199,19 @@ fun_facts:
 </p>
 
 <!-- 4. CONTACT ME -->
-<div>
+<div align="center">
   <h2>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc0b3U5d2x2Y21tZjc1Z3ZpZ3h1dGtrZ3Z6cWd1a2w3c3Z0cWJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s5T2a9vHnI4a2mJ0A8/giphy.gif" width="40" />
     Let's Connect
   </h2>
+</div>
+
+<div>
   <p>
-    <a href="mailto:abdouagiba@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/abdulrahman-agiba-170341350/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://t.me/ABDOU_AGIBA" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="https://twitter.com/abdou_agiba" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter )"/>
-    </a>
-  </p>
-  <p>
-    <b>Discord: abdoagiba</b>
+    <a href="mailto:abdouagiba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://www.linkedin.com/in/abdulrahman-agiba-170341350/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://t.me/ABDOU_AGIBA" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="https://twitter.com/abdou_agiba" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter )"/></a>
+    <a href="https://discord.com/users/947524982996164628" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </p>
 </div>
