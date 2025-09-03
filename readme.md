@@ -192,11 +192,17 @@ fun_facts:
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" height="37"/>
 </p>
 
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 <!-- 4. CONTACT ME -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc0b3U5d2x2Y21tZjc1Z3ZpZ3h1dGtrZ3Z6cWd1a2w3c3Z0cWJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s5T2a9vHnI4a2mJ0A8/giphy.gif" width="40" />
-    Let's Connect
+    Get in Touch
   </h2>
   <p>
     <a href="mailto:abdouagiba@gmail.com">
