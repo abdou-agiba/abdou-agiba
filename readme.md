@@ -40,26 +40,10 @@
 
 <!-- 2. ABOUT ME (Final & Approved Layout with Your Chosen Icon) -->
 
-<!-- Centered Title Box -->
-<div align="center">
-  <!-- Increased width from 320px to 350px -->
-  <table width="350px" border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #30363d; border-radius: 10px;">
-    <tr>
-      <td>
-        <!-- Flexbox container for perfect alignment -->
-        <div style="display: flex; align-items: center; justify-content: center; padding: 10px;">
-          <!-- Your Chosen Icon -->
-          <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-          <!-- Spacer -->
-          <div style="width: 15px;"></div>
-          <!-- Text with increased font-size -->
-          <span style="font-size: 2em; font-weight: bold;">About Me</span>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
+<!-- Title -->
+<h2 align="left">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">&nbsp;About Me
+</h2>
 
 <!-- Content Section (List on the left, GIF on the right ) -->
 <picture> <img align="right" src="https://media.giphy.com/media/u2pmXtt6sY2Iaj6p2A/giphy.gif" width="320px"></picture>
