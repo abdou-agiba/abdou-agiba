@@ -40,7 +40,7 @@
 
 <!-- 2. ABOUT ME (Corrected Vertical Layout ) -->
 
-### 🧠 A little more about me...
+### 🧠 about me...
 
 <!-- Code Block (Left-aligned text, centered block) -->
 <div align="center">
