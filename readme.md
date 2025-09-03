@@ -208,10 +208,10 @@ fun_facts:
 </div>
 
 <div align="center">
-  <div align="left" style="display: inline-block; vertical-align: top;">
+  <div style="display: inline-block; vertical-align: middle;">
     <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFF&bg_color=0D1117" alt="Abdou Agiba's GitHub Stats" />
   </div>
-  <div align="right" style="display: inline-block; vertical-align: top;">
+  <div style="display: inline-block; vertical-align: middle;">
     <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" alt="Bonfire GIF" width="250" />
   </div>
 </div>
