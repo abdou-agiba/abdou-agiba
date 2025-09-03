@@ -36,7 +36,7 @@
 
 <!-- 2. ABOUT ME -->
 <h3>
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="30" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="40" />
   About me...
 </h3>
 
