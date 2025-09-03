@@ -31,3 +31,17 @@
 </div>
 
 ---
+
+<!-- 2. ABOUT ME -->
+<h2 align="center">
+  👨‍💻 About Me
+</h2>
+
+<p align="center">
+  I'm a Computer Science student at <b>Tanta University</b> with a deep passion for everything related to Cloud Computing and DevOps. My current journey is focused on mastering <b>Cloud Security</b>, leveraging my foundational skills in <b>Python</b> and <b>Linux</b> to build and protect modern cloud infrastructures. I believe in the power of automation and am always looking for new challenges to solve.
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
