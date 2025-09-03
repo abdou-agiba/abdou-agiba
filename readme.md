@@ -39,17 +39,43 @@
 </p>
 
 <!-- 2. ABOUT ME -->
-<h2 align="center">
-  👨‍💻 About Me
-</h2>
+<table>
+  <tr>
+    <td valign="top">
+      <h2 align="left">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
+        About Me
+      </h2>
+      <ul>
+        <li>
+          👋 &nbsp; My name is <b>Abdulrahman Agiba</b>.
+        </li>
+        <li>
+          🎓 &nbsp; I'm a student at the <b>Faculty of Computers and Information, Tanta University</b>.
+        </li>
+        <li>
+          ☁️ &nbsp; I'm a <b>Cloud & Security Enthusiast</b>, currently working with DevOps tools and culture.
+        </li>
+        <li>
+          💻 &nbsp; I use <b>Python</b> and <b>Linux</b> as my primary tools for automation and building solutions.
+        </li>
+        <li>
+          🌱 &nbsp; I'm always learning and exploring new technologies to solve real-world problems.
+        </li>
+        <li>
+          🤝 &nbsp; Open to collaborating on projects related to cloud automation and security.
+        </li>
+      </ul>
+    </td>
+    <td width="40%" valign="middle">
+      <img src="https://i.imgur.com/3hM0Vw8.png" alt="An illustration of a developer working on multiple screens with code and cloud icons."/>
+    </td>
+  </tr>
+</table>
 
+<!-- Animated Divider -->
 <p align="center">
-  <pre>
-<b>🎓 STUDIES:</b>  Computer Science at Tanta University
-<b>☁️ FOCUS:</b>    Cloud Computing, DevOps & Security
-<b>🛠️ TOOLS:</b>   Python, Linux, and various DevOps tools
-<b>🌱 GOAL:</b>     To automate, secure, and scale infrastructures
-  </pre>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <!-- Animated Divider -->
