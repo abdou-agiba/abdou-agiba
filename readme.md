@@ -42,14 +42,18 @@
 
 <!-- Centered Title Box -->
 <div align="center">
-  <table width="320px" border="0" cellpadding="15" cellspacing="0" style="border: 1px solid #30363d; border-radius: 10px;">
+  <table width="320px" border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #30363d; border-radius: 10px;">
     <tr>
-      <td align="center">
-        <!-- Using <h2> with a style to hide the bottom border -->
-        <h2 style="border-bottom: none;">
-          <!-- New Icon -->
-          <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" style="vertical-align: middle;"></picture>&nbsp;&nbsp;About Me
-        </h2>
+      <td>
+        <!-- Flexbox container for perfect alignment -->
+        <div style="display: flex; align-items: center; justify-content: center; padding: 10px;">
+          <!-- Icon -->
+          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px">
+          <!-- Spacer -->
+          <div style="width: 15px;"></div>
+          <!-- Text -->
+          <span style="font-size: 1.7em; font-weight: bold;">About Me</span>
+        </div>
       </td>
     </tr>
   </table>
