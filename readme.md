@@ -38,11 +38,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- 2. ABOUT ME (New Vertical Layout ) -->
+<!-- 2. ABOUT ME (Corrected Vertical Layout ) -->
 
-### 🧠 about me...
+### 🧠 A little more about me...
 
-<!-- Centered Code Block with Margins -->
+<!-- Code Block (Left-aligned text, centered block) -->
 <div align="center">
   <table width="80%" border="0" cellpadding="0" cellspacing="0">
     <tr>
