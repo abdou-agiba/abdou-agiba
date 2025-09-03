@@ -40,23 +40,29 @@
   About me...
 </h2>
 
-```javascript
-const abdulrahman_agiba = {
-  pronouns: "He" | "Him",
-  college: "Faculty of Computers & Information, Tanta University",
-  field: ["Cloud", "Security", "DevOps"],
-  currentlyLearning: {
-    cloud: "AWS, Docker, Kubernetes",
-    security: "Network & Cloud Security",
-    devops: "CI/CD, Infrastructure as Code (IaC )"
-  },
-  coreSkills: {
-    languages: ["Python"],
-    systems: ["Linux"]
-  },
-  challenge: "Always learning and exploring new technologies to solve real-world problems.",
-  futureGoal: "Open to collaborating on projects related to cloud automation and security."
-};
+```python
+# abdulrahman_agiba.py
+
+class Profile:
+    def __init__(self):
+        self.name = "Abdulrahman Agiba"
+        self.pronouns = "He/Him"
+        self.education = "Faculty of Computers & Information, Tanta University"
+        self.fields = ["Cloud", "Security", "DevOps"]
+        self.learning = {
+            "cloud": "AWS, Docker, Kubernetes",
+            "security": "Network & Cloud Security",
+            "devops": "CI/CD, Infrastructure as Code (IaC)"
+        }
+        self.core_skills = {
+            "languages": ["Python"],
+            "systems": ["Linux"]
+        }
+        self.challenge = "Always learning and exploring new technologies."
+        self.goal = "Open to collaborating on cloud automation and security projects."
+
+me = Profile()
+
 ```
 
 <!-- Hollow Knight GIF -->
