@@ -42,13 +42,12 @@
 
 <!-- Centered Title Box -->
 <div align="center">
-  <table width="320px" border="0" cellpadding="10" cellspacing="0" style="border: 1px solid #30363d; border-radius: 10px;">
+  <table width="320px" border="0" cellpadding="15" cellspacing="0" style="border: 1px solid #30363d; border-radius: 10px;">
     <tr>
       <td align="center">
         <h2>
           <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
         </h2>
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300px">
       </td>
     </tr>
   </table>
