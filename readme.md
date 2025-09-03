@@ -35,7 +35,10 @@
 </p>
 
 <!-- 2. ABOUT ME -->
-### 🧠 About me...
+<h3>
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="30" />
+  About me...
+</h3>
 
 ```javascript
 const abdulrahman_agiba = {
@@ -58,5 +61,5 @@ const abdulrahman_agiba = {
 
 <!-- Hollow Knight GIF -->
 <p align="center">
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="300" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight3.gif?raw=true" width="200" />
 </p>
