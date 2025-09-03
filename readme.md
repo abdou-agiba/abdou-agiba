@@ -38,14 +38,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- 2. ABOUT ME (Code on the left, SMALLER GIF on the right ) - FINAL -->
+<!-- 2. ABOUT ME (Code on the left, GIF on the right ) - FINAL RESPONSIVE FIX -->
 
 ### 🧠 A little more about me...
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-  <!-- Column 1: Code Block (Back to the left) -->
+  <!-- Column 1: Code Block (with fixed width) -->
   <td valign="top">
+    <div style="width: 450px;">
 
 ```javascript
 const abdulrahman_agiba = {
