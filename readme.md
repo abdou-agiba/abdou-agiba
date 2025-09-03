@@ -38,7 +38,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- 2. ABOUT ME (Final & Approved Layout with a WORKING Icon) -->
+<!-- 2. ABOUT ME (Final & Approved Layout with Your Chosen Icon) -->
 
 <!-- Centered Title Box -->
 <div align="center">
@@ -47,8 +47,8 @@
       <td>
         <!-- Flexbox container for perfect alignment -->
         <div style="display: flex; align-items: center; justify-content: center; padding: 10px;">
-          <!-- New, Working Icon -->
-          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+          <!-- Your Chosen Icon -->
+          <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
           <!-- Spacer -->
           <div style="width: 15px;"></div>
           <!-- Text -->
