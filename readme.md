@@ -54,6 +54,7 @@ const abdulrahman_agiba = {
   challenge: "Always learning and exploring new technologies to solve real-world problems.",
   futureGoal: "Open to collaborating on projects related to cloud automation and security."
 };
+```
 
 <!-- Hollow Knight GIF -->
 <p align="center">
