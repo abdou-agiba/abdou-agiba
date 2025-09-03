@@ -38,7 +38,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- 2. ABOUT ME (Final Layout with Border Around Title Only) -->
+<!-- 2. ABOUT ME (Final & Approved Layout) -->
 
 <!-- Centered Title Box -->
 <div align="center">
@@ -47,8 +47,8 @@
       <td>
         <!-- Flexbox container for perfect alignment -->
         <div style="display: flex; align-items: center; justify-content: center; padding: 10px;">
-          <!-- Icon -->
-          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px">
+          <!-- Original Icon -->
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" width="50px">
           <!-- Spacer -->
           <div style="width: 15px;"></div>
           <!-- Text -->
@@ -58,6 +58,7 @@
     </tr>
   </table>
 </div>
+  
 
 
 <!-- Content Section (List on the left, GIF on the right ) -->
@@ -76,4 +77,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
