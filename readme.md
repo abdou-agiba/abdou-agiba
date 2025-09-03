@@ -215,3 +215,9 @@ fun_facts:
     <a href="https://discord.com/users/947524982996164628" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </p>
 </div>
+
+<!-- 5. DYNAMIC FOOTER -->
+<div align="center">
+  <!-- Waving Banner (Footer) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+</div>
