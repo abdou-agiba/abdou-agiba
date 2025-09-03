@@ -42,7 +42,8 @@
 
 <!-- Centered Title Box -->
 <div align="center">
-  <table width="320px" border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #30363d; border-radius: 10px;">
+  <!-- Increased width from 320px to 350px -->
+  <table width="350px" border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #30363d; border-radius: 10px;">
     <tr>
       <td>
         <!-- Flexbox container for perfect alignment -->
@@ -51,14 +52,13 @@
           <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
           <!-- Spacer -->
           <div style="width: 15px;"></div>
-          <!-- Text -->
-          <span style="font-size: 1.7em; font-weight: bold;">About Me</span>
+          <!-- Text with increased font-size -->
+          <span style="font-size: 2em; font-weight: bold;">About Me</span>
         </div>
       </td>
     </tr>
   </table>
 </div>
-  
 
 
 <!-- Content Section (List on the left, GIF on the right ) -->
