@@ -41,9 +41,9 @@
 <!-- 2. ABOUT ME (Final & Approved Layout with Your Chosen Icon) -->
 
 <!-- Title -->
-<h1 align="left">
+<h2 align="left">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">&nbsp;About Me
-</h1>
+</h2>
 
 <!-- Content Section (List on the left, GIF on the right ) -->
 <picture> <img align="right" src="https://media.giphy.com/media/u2pmXtt6sY2Iaj6p2A/giphy.gif" width="320px"></picture>
