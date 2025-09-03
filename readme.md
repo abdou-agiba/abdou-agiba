@@ -198,6 +198,27 @@ fun_facts:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+<!-- GITHUB STATS -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdSybBJJ6Uq28/giphy.gif" width="35" />
+    My GitHub Stats
+  </h2>
+    
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=blue-purple&hide_border=true&include_all_commits=true&count_private=true" alt="Abdou Agiba's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-agiba&layout=compact&theme=blue-purple&hide_border=true" alt="Abdou Agiba's Top Languages" />
+  </p>
+</div>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 
 <!-- 4. CONTACT ME -->
 <div align="center">
