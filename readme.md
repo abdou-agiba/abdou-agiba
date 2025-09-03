@@ -45,10 +45,10 @@
   <table width="320px" border="0" cellpadding="15" cellspacing="0" style="border: 1px solid #30363d; border-radius: 10px;">
     <tr>
       <td align="center">
-        <!-- Using <span> with font-size to create a title without the line -->
-        <span style="font-size: 1.5em; font-weight: bold;">
-          <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;"></picture> About Me
-        </span>
+        <!-- Using <h2> with a style to hide the bottom border -->
+        <h2 style="border-bottom: none;">
+          <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;"></picture>&nbsp;&nbsp;About Me
+        </h2>
       </td>
     </tr>
   </table>
