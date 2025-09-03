@@ -49,6 +49,7 @@ personal_info:
   education: "Faculty of Computer Science & Information @ Tanta University"
   contact:
     email: "abdouagiba@gmail.com"
+    discord : "abdoagiba"
 
 professional_focus:
   primary_interests:
