@@ -16,10 +16,18 @@
     </a>
   </p>
 
-  <!-- Profile Views Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abdou-agiba&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile views" />
-  </p>
-</div>
+
+<!-- Profile Stats Badges -->
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=abdou-agiba&label=Profile%20views&color=0e75b6&style=flat-square" alt="abdou-agiba profile views" />
+  <!-- Followers -->
+  <a href="https://github.com/abdou-agiba?tab=followers">
+    <img src="https://img.shields.io/github/followers/abdou-agiba?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub followers" />
+  </a>
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/abdou-agiba?label=Stars&style=flat-square&color=0e75b6&logo=github" alt="GitHub stars" />
+</p>
+
 
 ---
