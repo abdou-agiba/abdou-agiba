@@ -19,18 +19,21 @@
 
 ---
 
-<!-- Profile Stats Badges (Corrected & Final) -->
+<!-- Profile Stats & Trophies (Guaranteed to Work) -->
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=abdou-agiba&label=Profile%20views&color=blueviolet&style=flat-square" alt="abdou-agiba profile views" />
   <!-- Followers (Clickable ) -->
   <a href="https://github.com/abdou-agiba?tab=followers"><img src="https://img.shields.io/github/followers/abdou-agiba?label=Followers&style=flat-square&color=blueviolet&logo=github" alt="GitHub followers" /></a>
-  <!-- Public Repos (Fixed - Not Clickable but will display correctly ) -->
-  <img src="https://img.shields.io/github/public-repos/abdou-agiba?style=flat-square&color=blueviolet&logo=github&label=Public%20Repos" alt="GitHub public repos" />
   <!-- Total Stars (Clickable ) -->
   <a href="https://github.com/abdou-agiba?tab=stars"><img src="https://img.shields.io/github/stars/abdou-agiba?label=Stars&style=flat-square&color=blueviolet&logo=github" alt="GitHub stars" /></a>
 </p>
->
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdou-agiba&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
 
 <!-- Animated Divider -->
 <p align="center">
