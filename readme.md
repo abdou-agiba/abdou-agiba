@@ -9,10 +9,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
 
-  <!-- Typing SVG -->
+  <!-- Typing SVG with your chosen text -->
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Cloud+%26+Security+Engineer;DevOps+Enthusiast;Python+%26+Linux+Lover;Always+learning+new+things!&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+Security+Enthusiast;Working+with+DevOps+Tools;Computer+Science+Student;Always+learning+new+tech&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
     </a>
   </p>
 
