@@ -207,14 +207,10 @@ fun_facts:
   </h2>
 </div>
 
-<div align="center">
-  <div style="display: inline-block; vertical-align: middle;">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFF&bg_color=0D1117" alt="Abdou Agiba's GitHub Stats" />
-  </div>
-  <div style="display: inline-block; vertical-align: middle;">
-    <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" alt="Bonfire GIF" width="250" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFF&bg_color=0D1117" alt="Abdou Agiba's GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" alt="Bonfire GIF" width="250" />
+</p>
 
 <!-- Animated Divider -->
 <p align="center">
