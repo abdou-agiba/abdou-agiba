@@ -17,7 +17,6 @@
   </p>
 </div>
 
----
 
 <!-- Profile Stats Badges (with Today's Visitors) -->
 <p align="center">
