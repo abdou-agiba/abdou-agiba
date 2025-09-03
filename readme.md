@@ -61,5 +61,10 @@ const abdulrahman_agiba = {
 
 <!-- Hollow Knight GIF -->
 <p align="center">
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight3.gif?raw=true" width="200" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight3.gif?raw=true" width="300" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
