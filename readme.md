@@ -101,7 +101,7 @@ fun_facts:
 
 <!-- Languages -->
 <h3>
-  <img src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif" width="30" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/settings.gif?raw=true" width="30" />
   Programming Languages
 </h3>
 <p align="center">
@@ -112,7 +112,7 @@ fun_facts:
 
 <!-- Cloud & DevOps -->
 <h3>
-  <img src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif" width="30" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/settings.gif?raw=true" width="30" />
   Cloud & DevOps
 </h3>
 <p align="center">
@@ -127,7 +127,7 @@ fun_facts:
 
 <!-- Operating Systems -->
 <h3>
-  <img src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif" width="30" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/settings.gif?raw=true" width="30" />
   Operating Systems
 </h3>
 <p align="center">
@@ -138,7 +138,7 @@ fun_facts:
 
 <!-- Software & Tools -->
 <h3>
-  <img src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif" width="30" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/settings.gif?raw=true" width="30" />
   Software & Tools
 </h3>
 <p align="center">
@@ -153,7 +153,7 @@ fun_facts:
 
 <!-- Frontend Development -->
 <h3>
-  <img src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif" width="30" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/settings.gif?raw=true" width="30" />
   Frontend Development
 </h3>
 <p align="center">
@@ -168,7 +168,7 @@ fun_facts:
 
 <!-- Others -->
 <h3>
-  <img src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif" width="30" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/settings.gif?raw=true" width="30" />
   Others
 </h3>
 <p align="center">
