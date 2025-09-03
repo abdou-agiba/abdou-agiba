@@ -172,7 +172,7 @@ fun_facts:
   Others
 </h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="50"/>
 </p>
 
 <!-- Animated Divider -->
