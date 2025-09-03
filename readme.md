@@ -201,17 +201,19 @@ fun_facts:
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFF&bg_color=0D1117" alt="Abdou Agiba's GitHub Stats" />
-      </td>
-      <td valign="top">
-        <!-- ضع الـ GIF الخاص بك هنا لاحقًا -->
-        <!-- مثال: <img src="رابط الـ GIF" alt="Coding GIF" /> -->
-      </td>
-    </tr>
-  </table>
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdSybBJJ6Uq28/giphy.gif" width="35" />
+    My GitHub Stats
+  </h2>
+</div>
+
+<div align="center">
+  <div align="left" style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFF&bg_color=0D1117" alt="Abdou Agiba's GitHub Stats" />
+  </div>
+  <div align="right" style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" alt="Bonfire GIF" width="250" />
+  </div>
 </div>
 
 <!-- Animated Divider -->
