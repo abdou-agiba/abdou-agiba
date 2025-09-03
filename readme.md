@@ -38,15 +38,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- 2. ABOUT ME (Simple & Clean Layout with CORRECT GIF Path) -->
+<!-- 2. ABOUT ME (Simple & Clean Layout with Brain Emoji) -->
 
 <!-- Title -->
 <h2 align="left">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">&nbsp;About Me
+  🧠&nbsp;About Me
 </h2>
 
-<!-- Content Section (List on the left, CORRECT GIF on the right ) -->
-<!-- Using the CORRECT raw link to your uploaded GIF -->
+<!-- Content Section (List on the left, GIF on the right) -->
 <picture> <img align="right" src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight3.gif?raw=true" width="320px"></picture>
 
 - 👋 &nbsp; My name is `Abdulrahman Agiba`.
