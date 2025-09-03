@@ -45,14 +45,14 @@
   <table width="320px" border="0" cellpadding="15" cellspacing="0" style="border: 1px solid #30363d; border-radius: 10px;">
     <tr>
       <td align="center">
-        <h2>
-          <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
-        </h2>
+        <!-- Using <span> with font-size to create a title without the line -->
+        <span style="font-size: 1.5em; font-weight: bold;">
+          <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;"></picture> About Me
+        </span>
       </td>
     </tr>
   </table>
 </div>
-  
 
 
 <!-- Content Section (List on the left, GIF on the right ) -->
