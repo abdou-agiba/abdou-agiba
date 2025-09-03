@@ -19,11 +19,17 @@
 
 ---
 
-<!-- 2. GITHUB STATS CARDS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-agiba&layout=compact&theme=dracula&hide_border=true&locale=en" alt="Top Languages" width="48%"/>
-</div>
+<!-- Profile Stats Badges (Corrected & Working) -->
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=abdou-agiba&label=Profile%20views&color=blueviolet&style=flat-square" alt="abdou-agiba profile views" />
+  <!-- Followers -->
+  <a href="https://github.com/abdou-agiba?tab=followers"><img src="https://img.shields.io/github/followers/abdou-agiba?label=Followers&style=flat-square&color=blueviolet&logo=github" alt="GitHub followers" /></a>
+  <!-- Public Repos -->
+  <a href="https://github.com/abdou-agiba?tab=repositories"><img src="https://img.shields.io/github/public-repos/abdou-agiba?style=flat-square&color=blueviolet&logo=github" alt="GitHub public repos" /></a>
+  <!-- Total Stars -->
+  <a href="https://github.com/abdou-agiba?tab=stars"><img src="https://img.shields.io/github/stars/abdou-agiba?label=Stars&style=flat-square&color=blueviolet&logo=github" alt="GitHub stars" /></a>
+</p>
 
 <!-- Animated Divider -->
 <p align="center">
