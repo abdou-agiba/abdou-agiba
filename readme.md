@@ -36,11 +36,9 @@
 
 <!-- 2. ABOUT ME -->
 <h3>
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight3.gif?raw=true" width="30" align="middle" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight3.gif?raw=true" width="30" />
   About me...
 </h3>
-
-
 
 ```javascript
 const abdulrahman_agiba = {
