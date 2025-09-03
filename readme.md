@@ -3,12 +3,11 @@
   <!-- Waving Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header&reversal=true" />
 
- <!-- Introduction Text with the Original Classic Emoji -->
-<h1 align="center">
-  Hi, I'm Abdulrahman Agiba
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
+  <!-- Introduction Text with the Original Classic Emoji -->
+  <h1 align="center">
+    Hi, I'm Abdulrahman Agiba
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h1>
 
   <!-- Typing SVG -->
   <p align="center">
@@ -16,29 +15,22 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+Security+Enthusiast;Working+with+DevOps+Tools;Computer+Science+Student;Always+learning+new+tech&font=Fira%20Code&center=true&width=440&height=45&color=8A2BE2&vCenter=true&size=22">
     </a>
   </p>
+</div>
 
-<!-- Profile Stats Badges -->
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=abdou-agiba&label=Profile%20views&color=blueviolet&style=flat-square" alt="abdou-agiba profile views" />
-  <!-- Followers -->
-  <a href="https://github.com/abdou-agiba?tab=followers"><img src="https://img.shields.io/github/followers/abdou-agiba?label=Followers&style=flat-square&color=blueviolet&logo=github" alt="GitHub followers" /></a>
-  <!-- Total Contributions -->
-  <img src="https://img.shields.io/github/search/abdou-agiba/abdou-agiba?label=Contributions&style=flat-square&color=blueviolet&logo=github" alt="GitHub contributions" />
-  <!-- Total Commits (Note: This is a tricky one, often requires a custom action ) -->
-  <!-- Public Repos -->
-  <img src="https://img.shields.io/github/public-repos/abdou-agiba?style=flat-square&color=blueviolet&logo=github" alt="GitHub public repos" />
-  <!-- Total Stars -->
-  <img src="https://img.shields.io/github/stars/abdou-agiba?label=Stars&style=flat-square&color=blueviolet&logo=github" alt="GitHub stars" />
-</p>
+---
 
+<!-- 2. GITHUB STATS CARDS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-agiba&layout=compact&theme=dracula&hide_border=true&locale=en" alt="Top Languages" width="48%"/>
+</div>
 
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- 2. ABOUT ME (No Tables, Flexbox-like layout) -->
+<!-- 3. ABOUT ME -->
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
@@ -75,7 +67,6 @@
     </tr>
   </table>
 </div>
-
 
 <!-- Animated Divider -->
 <p align="center">
