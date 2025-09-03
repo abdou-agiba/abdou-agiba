@@ -174,6 +174,3 @@ fun_facts:
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="50"/>
 </p>
----
-<p align="center">Animated icons by <a target="_blank" href="https://www.flaticon.com/free-animated-icons">Flaticon</a></p>
-
