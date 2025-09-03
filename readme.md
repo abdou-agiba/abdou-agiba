@@ -6,7 +6,7 @@
 
 <!-- 1. HEADER IMAGE -->
 <p align="center">
-  <img src="https://i.imgur.com/I7A529i.gif" alt="Animated banner showing code, cloud, and security icons" width="100%"/>
+  <img src="" alt="Animated banner showing code, cloud, and security icons" width="100%"/>
 </p>
 
 <!-- 2. INTRODUCTION -->
