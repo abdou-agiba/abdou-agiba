@@ -101,7 +101,7 @@ fun_facts:
 
 <!-- Languages -->
 <h3>
-  <img src="https://camo.githubusercontent.com/6df48e054f0ec923204cc311c6b70fe5b7aac0b4778e1103c6706a9f66a458ff/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37653936643939346632396233383866363366376161373766663262656137382f74656e6f722e676966" width="40" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="30" />
   Programming Languages
 </h3>
 <p align="center">
@@ -127,7 +127,7 @@ fun_facts:
 
 <!-- Operating Systems -->
 <h3>
-  <img src="https://camo.githubusercontent.com/6df48e054f0ec923204cc311c6b70fe5b7aac0b4778e1103c6706a9f66a458ff/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37653936643939346632396233383866363366376161373766663262656137382f74656e6f722e676966" width="40" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="30" />
   Operating Systems
 </h3>
 <p align="center">
@@ -153,7 +153,7 @@ fun_facts:
 
 <!-- Frontend Development -->
 <h3>
-  <img src="https://camo.githubusercontent.com/6df48e054f0ec923204cc311c6b70fe5b7aac0b4778e1103c6706a9f66a458ff/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37653936643939346632396233383866363366376161373766663262656137382f74656e6f722e676966" width="40" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="30" />
   Frontend Development
 </h3>
 <p align="center">
