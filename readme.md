@@ -47,6 +47,9 @@ personal_info:
   name: Abdulrahman Agiba
   pronouns: He/Him
   education: "Faculty of Computer Science & Information @ Tanta University"
+  languages:
+            Arabic : "Native"
+            English: "B2 - Upper-Intermediate"
   contact:
     email: "abdouagiba@gmail.com"
     discord : "abdoagiba"
