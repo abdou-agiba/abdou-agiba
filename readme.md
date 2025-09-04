@@ -202,10 +202,11 @@ fun_facts:
 <!-- GITHUB STATS -->
 <div align="center">
   <h2>
-    <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/Github%20state%20gif.webp?raw=true" width="35" />
+    <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/Github%20state%20gif.webp?raw=true" width="35" align="center" />
     My GitHub Stats
   </h2>
 </div>
+
 
 <!-- Stats Card & GIF -->
 <p align="center">
