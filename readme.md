@@ -249,19 +249,6 @@ fun_facts:
 </div>
 
 
-
-<div align="center">
-  <p>
-    <a href="mailto:abdouagiba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://www.linkedin.com/in/abdulrahman-agiba-170341350/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://t.me/ABDOU_AGIBA" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    <a href="https://twitter.com/abdou_agiba" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter   )"/></a>
-    <a href="https://discord.com/users/1045747163596070913" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  </p>
-</div>
-
-
-
 <!-- 5. DYNAMIC FOOTER -->
 <div align="center">
   <!-- Waving Banner (Footer) -->
