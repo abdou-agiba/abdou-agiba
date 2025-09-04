@@ -86,7 +86,7 @@ fun_facts:
 
 <!-- Hollow Knight GIF -->
 <p align="center">
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight1.gif?raw=true" width="400" />
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight1.gif?raw=true" width="350" />
 </p>
 
 <!-- New Animated Divider -->
