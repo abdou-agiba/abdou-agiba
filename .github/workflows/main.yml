@@ -13,8 +13,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # الرابط الصحيح مع تخصيص الألوان فقط (بدون palette)
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=8A2BE2&color_dots=8A2BE2,6A1B9A,4A148C,3A1078,2A0D5A
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3
