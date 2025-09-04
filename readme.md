@@ -219,7 +219,7 @@ fun_facts:
 
 <!-- Contribution Snake -->
 <div align="center">
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </div>
 
 
