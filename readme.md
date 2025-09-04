@@ -76,7 +76,7 @@ technical_toolkit:
 mission:
   guiding_principle: "I believe the best way to learn is by doing."
   current_challenge: "Building a strong foundation in cloud and security."
-  collaboration_goal: "Eager to collaborate on projects to apply my skills"
+  open_to: "New opportunities where I can apply my passion for Cloud Security"
 
 fun_facts:
  - "I'm a huge fan of Survival & Story games 🎮."
