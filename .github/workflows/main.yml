@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # يتحدث كل 12 ساعة
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,12 +13,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # الرابط الصحيح لتخصيص الألوان
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          # تخصيص الألوان لتناسب الثيم البنفسجي
-          color_snake: "#8A2BE2"
-          color_dots: "#8A2BE2,#6A1B9A,#4A148C,#3A1078,#2A0D5A"
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=8A2BE2&color_dots=8A2BE2,6A1B9A,4A148C,3A1078,2A0D5A
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3
