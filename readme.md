@@ -238,6 +238,7 @@ fun_facts:
   <p><b>My inbox is always open!</b></p>
 </div>
 
+
 <div align="center">
   <p>
     <a href="mailto:abdouagiba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
