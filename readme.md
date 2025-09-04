@@ -202,7 +202,7 @@ fun_facts:
 <!-- GITHUB STATS -->
 <div align="center">
   <h2>
-    <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/Github%20state%20gif.webp?raw=true" width="45" align="center" />
+    <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/Github%20state%20gif.webp?raw=true" width="35" style="vertical-align:middle" />
     My GitHub Stats
   </h2>
 </div>
