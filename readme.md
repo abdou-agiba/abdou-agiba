@@ -232,7 +232,9 @@ fun_facts:
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NiaWc4cTN1c3pxb3VqY2k4dDBza2R0c21qb2s4Y3p3aGZocjF4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QvM5s0S6s7b6A2T2Vf/giphy.gif" width="40" style="vertical-align:middle" />
     Get in Touch
   </h2>
-  <p>I enjoy helping others and collaborating on projects. If you have a question or just want to say hi, my inbox is always open!</p>
+  <ul>
+    <li>I enjoy helping others and collaborating on projects. If you have a question or just want to say hi, my inbox is always open!</li>
+  </ul>
 </div>
 
 <div>
@@ -244,6 +246,7 @@ fun_facts:
     <a href="https://discord.com/users/1045747163596070913" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </p>
 </div>
+
 
 <!-- 5. DYNAMIC FOOTER -->
 <div align="center">
