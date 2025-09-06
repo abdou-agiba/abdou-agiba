@@ -18,6 +18,14 @@
   </p>
 </div>
 
+<!-- Portfolio Section -->
+<div align="center" style="background-color: #000000; padding: 20px; margin: 20px 0; border-radius: 10px;">
+  <h2 style="color: white;">
+    📁 Portfolio
+  </h2>
+  <p style="color: #8A2BE2;">Showcasing my projects and contributions</p>
+</div>
+
 <!-- Profile Stats Badges -->
 <p align="center">
   <!-- Total Profile Views -->
@@ -228,6 +236,14 @@ fun_facts:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
+<!-- Portfolio Section -->
+<div align="center" style="background-color: #000000; padding: 20px; margin: 20px 0; border-radius: 10px;">
+  <h2 style="color: white;">
+    📁 Portfolio
+  </h2>
+  <p style="color: #8A2BE2;">Explore my work and projects</p>
+</div>
 
 <!-- 4. CONTACT ME -->
 <div align="center">
