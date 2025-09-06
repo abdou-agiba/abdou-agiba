@@ -18,6 +18,17 @@
   </p>
 </div>
 
+<!-- Portfolio Link -->
+<div align="center">
+  <h3 style="color: black;">
+    <a href="https://abdou-agiba.vercel.app/" target="_blank" style="color: black; text-decoration: none;">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+      <br>
+      <span style="color: black;">Portfolio</span>
+    </a>
+  </h3>
+</div>
+
 <!-- Profile Stats Badges -->
 <p align="center">
   <!-- Total Profile Views -->
@@ -30,9 +41,9 @@
   <img src="https://komarev.com/ghpvc/?username=abdou-agiba&label=Today's%20Views&color=blueviolet&style=flat-square&period=daily" alt="Today's profile views" />
 </p>
 
-<!-- Animated Divider -->
+<!-- Animated Divider (Square) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer_header_plus.png">
 </p>
 
 <!-- 2. ABOUT ME -->
