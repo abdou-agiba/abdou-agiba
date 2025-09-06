@@ -18,12 +18,11 @@
   </p>
 </div>
 
-<!-- Portfolio Button -->
+<!-- Portfolio Button with Custom Logo -->
 <p align="center">
   <a href="https://abdou-agiba.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAANkSURBVGhD7ZlNTytnFMd/d1+GSUi2sLILG1nIQhY2VjYSNkY2NkL5BWyE/AFb2UjZWNlY2VjYyEI2EkI2YmQhErJgIUg2yT3P63p6d6e
+
 
 
 <!-- Profile Stats Badges -->
