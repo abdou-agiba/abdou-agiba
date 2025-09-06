@@ -33,12 +33,14 @@
 <p align="center">
   <!-- Total Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=abdou-agiba&label=Total%20Views&color=blueviolet&style=flat-square" alt="Total profile views" />
-  <!-- Followers (Clickable ) -->
+  <!-- Followers (Clickable  ) -->
   <a href="https://github.com/abdou-agiba?tab=followers"><img src="https://img.shields.io/github/followers/abdou-agiba?label=Followers&style=flat-square&color=blueviolet&logo=github" alt="GitHub followers" /></a>
-  <!-- Total Stars (Clickable ) -->
+  <!-- Total Stars (Clickable  ) -->
   <a href="https://github.com/abdou-agiba?tab=stars"><img src="https://img.shields.io/github/stars/abdou-agiba?label=Stars&style=flat-square&color=blueviolet&logo=github" alt="GitHub stars" /></a>
-  <!-- Today's Visitors -->
-  <img src="https://komarev.com/ghpvc/?username=abdou-agiba&label=Today's%20Views&color=blueviolet&style=flat-square&period=daily" alt="Today's profile views" />
+  <!-- Total Commits -->
+  <img src="https://img.shields.io/github/commit-activity/y/abdou-agiba?label=Commits&style=flat-square&color=blueviolet&logo=github" alt="GitHub commits" />
+  <!-- Total Contributions -->
+  <img src="https://img.shields.io/github/contributors/abdou-agiba/abdou-agiba?label=Contributions&style=flat-square&color=blueviolet&logo=github" alt="GitHub contributions" />
 </p>
 
 <!-- Animated Divider -->
