@@ -18,6 +18,14 @@
   </p>
 </div>
 
+<!-- Portfolio Button -->
+<p align="center">
+  <a href="https://abdou-agiba.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+
 <!-- Profile Stats Badges -->
 <p align="center">
   <!-- Total Profile Views -->
