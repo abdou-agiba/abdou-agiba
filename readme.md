@@ -18,12 +18,13 @@
   </p>
 </div>
 
-<!-- Portfolio Button (Plastic Style) -->
+<!-- Portfolio Button -->
 <p align="center">
   <a href="https://abdou-agiba.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=plastic&logo=Vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
 
 
 
