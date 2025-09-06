@@ -18,13 +18,13 @@
   </p>
 </div>
 
-<!-- Custom Portfolio Button -->
+<!-- Portfolio Button -->
 <p align="center">
   <a href="https://abdou-agiba.vercel.app/" target="_blank">
-    <img src="https://github.com/abdou-agiba/abdou-agiba/raw/main/assets/md/cube-it-logo.png" alt="Portfolio Logo" width="32" height="32" style="vertical-align:middle; margin-right:5px;"/>
-    <span style="font-size: 16px; font-weight: bold; color: white; vertical-align:middle; font-family: sans-serif;">PORTFOLIO</span>
+    <img src="https://github.com/abdou-agiba/abdou-agiba/raw/main/assets/md/portfolio_badge.png" alt="Portfolio"/>
   </a>
 </p>
+
 
 
 <!-- Profile Stats Badges -->
